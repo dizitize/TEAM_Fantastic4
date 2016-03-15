@@ -60,3 +60,4 @@ local.properties
 Servers/
 *.jar
 semi/WebContent/WEB-INF/web.xml
+semi/WebContent/META-INF/MANIFEST.MF
